@@ -9,13 +9,13 @@ I'm currently pursuing my Master’s in Business Analytics at the Carlson School
 - **End-to-End ML Projects**: From preprocessing to evaluation - structured ML, CNNs, transformers, and forecasting models.
 - **Modeling Challenges**: Tackling business-relevant problems like spam detection, stock price forecasting, and auction-based trading.
 - **Evaluation & Robustness**: Heavy emphasis on techniques like nested cross-validation, cost-sensitive metrics, and model generalization.
-- **Exploration of Tools**: Using modern stacks like LightGBM, EfficientNet, CatBoost, and PyTorch with experimentation tools like Optuna.
+- **Exploration of Tools**: Using modern stacks like LightGBM, EfficientNet, CatBoost, and Keras with experimentation tools like Optuna.
 
 ---
 
 🧠 **Skills & Interests**
 
-- **Languages & Tools**: Python, SQL, R, PyTorch, LightGBM, Tableau, Git, Azure
+- **Languages & Tools**: Python, SQL, R, Keras, LightGBM, Tableau, Git, Azure
 - **Techniques**: Transfer learning, time-series modeling, feature engineering, cost-sensitive learning
 - **Domains**: Financial data science, image recognition, auction microstructure, real-world Kaggle competitions
 
